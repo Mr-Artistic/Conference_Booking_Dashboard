@@ -50,7 +50,7 @@ def render_header_bar(
 
 
 render_header_bar(
-    "Conference Room Booking Dashboard",
+    "Conference Room Booking App",
     "assets/logo.png",
     logo_height=50,
     bg_color="#CBD9F8",
@@ -148,3 +148,4 @@ with left_col:
 # --------------------------------
 with right_col:
     booking_form()
+
